@@ -2,7 +2,7 @@
 
 #### I work full stack, specialising in Django + React
 
-- 💭 I’m currently working on a recipe manager!
+- 💭 I’m currently working on a recipe manager as a pet project!
 - 🌱 I’m currently learning `node.js`
 - 💡 My tech stack includes `react`, `django`, `AWS`
 - 📫 Want to get into contact? You can reach me on LinkedIn!
